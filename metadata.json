@@ -1,0 +1,8 @@
+{
+  "name": "Foxy",
+  "description": "A friendly homework helper for children with ADHD, using cognitive science to make learning fun and manageable.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
